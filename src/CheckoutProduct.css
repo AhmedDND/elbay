@@ -16,6 +16,12 @@
     color: #111;
 }
 
+.checkoutProduct__image {
+    object-fit: contain;
+    width: 180px;
+    height: 180px;
+}
+
 .checkoutProduct__rating {
     display: flex;
 }
